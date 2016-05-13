@@ -25,8 +25,8 @@
         <FontName>Arial</FontName>
         <PointSize1000>9000</PointSize1000>
         <Underline>false</Underline>
-        <Bold>false</Bold>
-        <Italic>true</Italic>
+        <Bold>true</Bold>
+        <Italic>false</Italic>
         <DropShadow>false</DropShadow>
       </Font>
       <CaptionFont>
