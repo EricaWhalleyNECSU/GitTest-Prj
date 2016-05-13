@@ -21,14 +21,7 @@
         <SecondaryCol></SecondaryCol>
         <Alpha>255</Alpha>
       </Color>
-      <Font>
-        <FontName>Arial</FontName>
-        <PointSize1000>9000</PointSize1000>
-        <Underline>false</Underline>
-        <Bold>true</Bold>
-        <Italic>false</Italic>
-        <DropShadow>false</DropShadow>
-      </Font>
+      <Font></Font>
       <CaptionFont>
         <FontName>Tahoma</FontName>
         <PointSize1000>10000</PointSize1000>
@@ -253,7 +246,7 @@
     <Bmp enctype="base64"></Bmp>
     <BkgAlpha>255</BkgAlpha>
     <Text>
-      <v>unsubscribe from cat facts please</v>
+      <v>Pretend spelling amendment</v>
     </Text>
     <ImageRepresentation></ImageRepresentation>
     <AllowVerticalScrollBar>false</AllowVerticalScrollBar>
